@@ -6,8 +6,7 @@ I am Oger Carrillo from California and i enjoy learning new skills and finding n
 
 Skills: Java | Python
 
-- 🔭 I’m currently working on this page. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/oger-carrillo//)  
 
