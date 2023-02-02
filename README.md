@@ -1,17 +1,13 @@
-Hey, 
+### Hi there 👋, Oger Carrillo
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Oger Carrillo from California and i enjoy learning new skills and finding new challenges.
+I am Oger Carrillo from California and i enjoy learning new skills and finding new challenges
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocalgreen)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Java | Python
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
