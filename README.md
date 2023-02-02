@@ -1,7 +1,8 @@
-### Hi there 👋
+Hey, 
 
-<!--
-**OCALGREEN/ocalgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Oger Carrillo from California and i enjoy learning new skills and finding new challenges.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocalgreen)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
