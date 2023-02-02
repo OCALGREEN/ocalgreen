@@ -1,6 +1,5 @@
 ### Hey👋
-#### Welcome to my Github 
-![Welcome to my Github ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Welcome to my Github
 
 I am Oger Carrillo from California and I enjoy learning new skills and finding new challenges
 
